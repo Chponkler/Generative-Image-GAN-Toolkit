@@ -61,4 +61,8 @@ Frame capture occurs at exact specified time intervals (in seconds)
 - Saves only valid frames
 - Centering on region of interest
 
+I used this code to assemble a dataset of photos of the YouTuber's face in order to further train the system to generate faces. below is an example of generating a model that has been trained for 40 epochs. For the best result, you need to continue learning.
+
+![куплинов генерация](https://github.com/user-attachments/assets/6ceca313-4cf9-451f-808d-04de9c0aad17)
+
 
